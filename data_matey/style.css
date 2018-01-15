@@ -1,0 +1,16 @@
+
+div.answer {
+	border: #75b7ff solid thick;
+	padding: 8px;
+	border-radius: 7px;
+	margin: 2px;
+}
+
+div.answer h1 {
+	width:43px;
+    margin-top: -15px;
+    margin-left: 1px;
+    background: white;
+    font-size: 8px;
+    color: #62acfc;
+}
